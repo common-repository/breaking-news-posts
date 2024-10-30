@@ -1,0 +1,23 @@
+.bnp-container-news{
+float: left;
+clear: left;
+width: 100%;
+white-space: nowrap;
+overflow: hidden;
+}
+
+#header.sticky-style-2 #header-wrap{
+height: auto;
+}
+
+#header.sticky-style-2{
+height: auto;
+}
+
+.bnp-item{
+	width: 100%;
+	display: inline-block;
+	transition: right 2s;
+	position: relative;
+}
+
